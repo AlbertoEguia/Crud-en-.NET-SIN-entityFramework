@@ -1,0 +1,11 @@
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\bin\Debug\Crud_En.NET_Sin_EntityFramework.exe.config
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\bin\Debug\Crud_En.NET_Sin_EntityFramework.exe
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\bin\Debug\Crud_En.NET_Sin_EntityFramework.pdb
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud En .NET Sin EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud_En.NET_Sin_EntityFramework.Form1.resources
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud_En.NET_Sin_EntityFramework.Properties.Resources.resources
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud En .NET Sin EntityFramework.csproj.GenerateResource.cache
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud En .NET Sin EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud_En.NET_Sin_EntityFramework.exe
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud_En.NET_Sin_EntityFramework.pdb
+C:\Users\Alberto\source\repos\Crud En .NET Sin EntityFramework\obj\Debug\Crud_En.NET_Sin_EntityFramework.Form2.resources
